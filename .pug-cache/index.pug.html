@@ -1,0 +1,84 @@
+<!-- Wrapper-->
+<div id="wrapper">
+  <!-- Header-->
+  <header id="header">
+    <h1><a href="index.html"><strong>{{ site.header.title }}</strong> {{ site.header.subtitle }}</a></h1>
+    <nav>
+      <ul>
+        <li><a class="icon fa-info-circle" href="#footer">About</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- Main-->
+  <div id="main">{% for video in site.data.videos %}
+    <article class="thumb da-aware"><a class="image" href="http://youtu.be/{{ video.id }}" data-poptrox="youtube,800x480,autoplay=1&amp;modestbranding=1&amp;showinfo=0&amp;rel=0&amp;color=white&amp;vq=hd1080" style="background-image: url({{ site.baseurl }}{{ site.video_posters_loc }}/{{ video.id }}.jpg); outline: 0px;"><img src="{{ site.baseurl }}{{ site.video_posters_loc }}/{{ video.id }}.jpg" alt="{{ video.snippet.title | truncate: 20 }}" data-name="{{ site.baseurl }}{{ site.video_posters_loc }}/{{ video.id }}.jpg" style="display: none"/></a>
+      <div class="da-overlay">
+        <header>
+          <h2>{{ video.snippet.title | truncate: 20 }}</h2>
+          <h4>{{ video.snippet.description | truncate: 20 }}</h4>
+        </header>
+      </div>
+    </article>{% endfor %}
+    {% for image in site.static_files %}
+    {% if image.path contains 'fulls' %}
+    <article class="thumb da-aware photo"><a class="image" href="{{ site.baseurl }}{{ site.image_fulls_loc }}/{{ image.name }}" style="background-image: url(); outline: 0px;"><img src="{{ site.baseurl }}{{ site.image_thumbs_loc }}/{{ image.name }}" alt="" data-name="{{ image.name }}"/>
+        <div class="da-overlay">
+          <header>
+            <h2>an outdoor adventure</h2>
+            <h4>producer, editor, videographer, drone</h4>
+          </header>
+        </div></a></article>{% endif %}
+    {% endfor %}
+  </div>
+  <!-- Footer-->
+  <footer class="panel" id="footer">
+    <div class="inner split">
+      <div>
+        <section>
+          <h2>{{ site.footer.name }}</h2>
+          <p>{{ site.footer.bio }}</p>
+          <p>{{ site.footer.github }}</p>
+        </section>
+        <section>
+          <h2>Section</h2>
+        </section>
+        <section>
+          <h2>Follow me on ...</h2>
+          <ul class="icons">
+            <li><a class="icon fa-facebook" href="{{ site.social_urls.facebook }}"><span class="label">Facebook</span></a></li>
+            <li><a class="icon fa-twitter" href="{{ site.social_urls.twitter }}"><span class="label">Twitter</span></a></li>
+            <li><a class="icon fa-instagram" href="{{ site.social_urls.instagram }}"><span class="label">Instagram</span></a></li>
+            <li><a class="icon fa-dribbble" href="{{ site.social_urls.dribbble }}"><span class="label">Dribbble</span></a></li>
+            <li><a class="icon fa-github" href="{{ site.social_urls.github }}"><span class="label">GitHub</span></a></li>
+            <li><a class="icon fa-linkedin" href="{{ site.social_urls.linkedin }}"><span class="label">LinkedIn</span></a></li>
+          </ul>
+        </section>
+        <p class="copyright">© {{ site.author }}. Design: {{ site.web_design }}</p>
+      </div>
+      <div>
+        <section>
+          <h2>Get in touch</h2>
+          <form method="post" action="#">
+            <div class="field half first">
+              <input id="name" type="text" name="name" placeholder="Name"/>
+            </div>
+            <div class="field half">
+              <input id="email" type="text" name="email" placeholder="Email"/>
+            </div>
+            <div class="field">
+              <textarea id="message" name="message" rows="4" placeholder="Message"></textarea>
+            </div>
+            <ul class="actions">
+              <li>
+                <input class="special" type="submit" value="Send"/>
+              </li>
+              <li>
+                <input type="reset" value="Reset"/>
+              </li>
+            </ul>
+          </form>
+        </section>
+      </div>
+    </div>
+  </footer>
+</div>

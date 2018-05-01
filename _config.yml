@@ -1,0 +1,45 @@
+
+# Where all of your source 
+# pug/HTML/includes/layouts 
+# will be
+source: src
+
+# Where your compiled 
+# files will output to.
+destination: dist
+
+# Enabling the livereload
+# plugin by default.
+livereload: true
+
+# Setting our sass 
+# directory.
+sass:
+    sass_dir: static/sass
+
+# Base configs
+# baseurl: "http://skeg.me"
+image_fulls_loc: "static/images/fulls"
+image_thumbs_loc: "static/images/thumbs"
+video_posters_loc: "static/images/posters"
+google_analytics: false
+
+# UI configs
+title: "Jonny Trejo"
+subtitle: "Production & Creative"
+author: "Jonny Trejo"
+header:
+ title: "Jonny Trejo"
+ subtitle: "Production & Creative"
+footer:
+ name: "Howdy, my name is Jonny"
+ bio: "Adventure begins where the roads end."
+ github: "https://github.com/Jonnyonthe"
+web_design: "Jonny Trejo"
+social_urls:
+  facebook: "#"
+  twitter: "#"
+  instagram: "#"
+  dribbble: "#"
+  linkedin: "https://www.linkedin.com/in/jonnyonthe/"
+  github: "https://github.com/Jonnyonthe"
