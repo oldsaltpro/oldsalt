@@ -25,12 +25,12 @@ video_posters_loc: "static/images/posters"
 google_analytics: false
 
 # UI configs
-title: "Jonny Trejo"
-subtitle: "Production & Creative"
+title: "Old Salt"
+subtitle: "Productions"
 author: "Jonny Trejo"
 header:
- title: "Jonny Trejo"
- subtitle: "Production & Creative"
+ title: "Old Salt"
+ subtitle: "Productions"
 footer:
  name: "Howdy, my name is Jonny"
  bio: "Adventure begins where the roads end."
