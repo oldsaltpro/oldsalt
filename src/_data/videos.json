@@ -76,63 +76,128 @@
    }
   },
   {
-   "kind": "youtube#video",
-   "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/04Gio9Z4Mo2EvkG2qflurnBLOyw\"",
-   "id": "ixTaCXy7kOU",
-   "snippet": {
-    "publishedAt": "2017-05-04T21:26:32.000Z",
-    "channelId": "UCo9hT81uxZpEJiDfN1DXLvQ",
-    "title": "Kayaking with Manta Rays in Panama",
-    "description": "",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/ixTaCXy7kOU/default.jpg",
-      "width": 120,
-      "height": 90
+    "kind": "youtube#video",
+    "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/OjbXOJQcC4xCSqvWdKw6Jr4YT2Q\"",
+    "id": "agWtc0G8oj0",
+    "snippet": {
+     "publishedAt": "2017-07-25T21:25:15.000Z",
+     "channelId": "UCo9hT81uxZpEJiDfN1DXLvQ",
+     "title": "The Hobie Mega Mirage",
+     "description": "The Hobie Mega Mirage... fun for your whole crew #pedalpower \n\n**note: not for sale, just for fun :) \n\n**music: \"Space Odyssey 2001 Theme Trap Remix\" by Holder",
+     "thumbnails": {
+      "default": {
+       "url": "https://i.ytimg.com/vi/agWtc0G8oj0/default.jpg",
+       "width": 120,
+       "height": 90
+      },
+      "medium": {
+       "url": "https://i.ytimg.com/vi/agWtc0G8oj0/mqdefault.jpg",
+       "width": 320,
+       "height": 180
+      },
+      "high": {
+       "url": "https://i.ytimg.com/vi/agWtc0G8oj0/hqdefault.jpg",
+       "width": 480,
+       "height": 360
+      },
+      "standard": {
+       "url": "https://i.ytimg.com/vi/agWtc0G8oj0/sddefault.jpg",
+       "width": 640,
+       "height": 480
+      },
+      "maxres": {
+       "url": "https://i.ytimg.com/vi/agWtc0G8oj0/maxresdefault.jpg",
+       "width": 1280,
+       "height": 720
+      }
      },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/ixTaCXy7kOU/mqdefault.jpg",
-      "width": 320,
-      "height": 180
+     "channelTitle": "Hobie",
+     "tags": [
+      "Hobie",
+      "Hobie Cat",
+      "Watersports",
+      "Mirage Drive",
+      "SUP",
+      "inflatables",
+      "funny",
+      "silly",
+      "whimsicle",
+      "water toy",
+      "pedalpower",
+      "pedal kayak",
+      "kayaks",
+      "pedalboard",
+      "pedal drive",
+      "party boat"
+     ],
+     "categoryId": "17",
+     "liveBroadcastContent": "none",
+     "localized": {
+      "title": "The Hobie Mega Mirage",
+      "description": "The Hobie Mega Mirage... fun for your whole crew #pedalpower \n\n**note: not for sale, just for fun :) \n\n**music: \"Space Odyssey 2001 Theme Trap Remix\" by Holder"
      },
-     "high": {
-      "url": "https://i.ytimg.com/vi/ixTaCXy7kOU/hqdefault.jpg",
-      "width": 480,
-      "height": 360
+     "defaultAudioLanguage": "en"
+    }
+   },
+   {
+    "kind": "youtube#video",
+    "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/wjC4DfM-StqD72kBYv5Pkl9QfMs\"",
+    "id": "rZV5KSPjVOE",
+    "snippet": {
+     "publishedAt": "2018-03-30T21:35:53.000Z",
+     "channelId": "UCo9hT81uxZpEJiDfN1DXLvQ",
+     "title": "Hobie Mirage Fishing Kayaks - Get Hooked!",
+     "description": "Get yours at https://hobie.com",
+     "thumbnails": {
+      "default": {
+       "url": "https://i.ytimg.com/vi/rZV5KSPjVOE/default.jpg",
+       "width": 120,
+       "height": 90
+      },
+      "medium": {
+       "url": "https://i.ytimg.com/vi/rZV5KSPjVOE/mqdefault.jpg",
+       "width": 320,
+       "height": 180
+      },
+      "high": {
+       "url": "https://i.ytimg.com/vi/rZV5KSPjVOE/hqdefault.jpg",
+       "width": 480,
+       "height": 360
+      },
+      "maxres": {
+          "url": "https://i.ytimg.com/vi/rZV5KSPjVOE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+      }
      },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/ixTaCXy7kOU/sddefault.jpg",
-      "width": 640,
-      "height": 480
+     "channelTitle": "Hobie",
+     "tags": [
+      "Hobie",
+      "Hobie Cat",
+      "Watersports",
+      "Kayak",
+      "Kayak Fishing",
+      "Kayaking",
+      "Bass Fishing",
+      "Freshwater Fishing",
+      "Saltwater Fishing",
+      "Fishing Boat",
+      "Boats",
+      "Hardcore Fishing",
+      "Kayak Anglers",
+      "Pedal Kayak",
+      "Yak Fishing",
+      "Best Kayak"
+     ],
+     "categoryId": "17",
+     "liveBroadcastContent": "none",
+     "localized": {
+      "title": "Hobie Mirage Fishing Kayaks - Get Hooked!",
+      "description": "Get yours at https://hobie.com"
      },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/ixTaCXy7kOU/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Hobie",
-    "tags": [
-     "Hobie",
-     "Hobie Cat",
-     "Watersports",
-     "Manta Rays",
-     "Hobie Kayaking",
-     "Hobie Fishing",
-     "Hobie Kayaks",
-     "Panama",
-     "Pedal Kayaks",
-     "Hobie Outdoor Adventures"
-    ],
-    "categoryId": "17",
-    "liveBroadcastContent": "none",
-    "localized": {
-     "title": "Kayaking with Manta Rays in Panama",
-     "description": ""
-    },
-    "defaultAudioLanguage": "en"
-   }
-  },
+     "defaultAudioLanguage": "en"
+    }
+   },
   {
    "kind": "youtube#video",
    "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/L8-_XsOUQoZytOO6BpcuhG3U9jw\"",
@@ -419,65 +484,6 @@
   },
   {
    "kind": "youtube#video",
-   "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/FozDom6MJaUsUIuz5DUgRF5wgk0\"",
-   "id": "eqoPA-czy_s",
-   "snippet": {
-    "publishedAt": "2017-05-01T22:13:52.000Z",
-    "channelId": "UCo9hT81uxZpEJiDfN1DXLvQ",
-    "title": "Showloop: Hobie Mirage Island Sail Kayaks",
-    "description": "https://www.hobie.com/kayaks/mirage-tandem-island/\nhttps://www.hobie.com/kayaks/mirage-adventure-island/",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/eqoPA-czy_s/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/eqoPA-czy_s/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/eqoPA-czy_s/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/eqoPA-czy_s/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/eqoPA-czy_s/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Hobie",
-    "tags": [
-     "Hobie",
-     "Hobie Cat",
-     "Watersports",
-     "Mirage Island",
-     "Adventure Island",
-     "Tandem Island",
-     "Hobie Islands",
-     "Sail Kayak",
-     "Trimaran",
-     "Pedal Kayak",
-     "Sailing"
-    ],
-    "categoryId": "17",
-    "liveBroadcastContent": "none",
-    "localized": {
-     "title": "Showloop: Hobie Mirage Island Sail Kayaks",
-     "description": "https://www.hobie.com/kayaks/mirage-tandem-island/\nhttps://www.hobie.com/kayaks/mirage-adventure-island/"
-    },
-    "defaultAudioLanguage": "en"
-   }
-  },
-  {
-   "kind": "youtube#video",
    "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/w61F3lFXdYHQ4FdorF4PBW-5TPI\"",
    "id": "ogQTXgwF9ck",
    "snippet": {
@@ -522,300 +528,6 @@
     "liveBroadcastContent": "none",
     "localized": {
      "title": "Everglades Challenge - Hobie Mirage Islands",
-     "description": ""
-    },
-    "defaultAudioLanguage": "en"
-   }
-  },
-  {
-   "kind": "youtube#video",
-   "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/n314QL73SfK82yvjwKIbDjdamvc\"",
-   "id": "2BZjCyazU6Q",
-   "snippet": {
-    "publishedAt": "2017-06-12T15:28:43.000Z",
-    "channelId": "UCo9hT81uxZpEJiDfN1DXLvQ",
-    "title": "Hobie Mirage Eclipse pedalboard: Get Out There",
-    "description": "Break free from the shore. Trade the well-worn path for a \nwaterway. Step out of your routine and onto a pedalboard at www.hobie.com.\n\nThe Mirage Eclipse is the most recent in Hobie’s history of first-on-\nthe-water equipment. We built the Eclipse to bring together the fun \nof stand up paddleboarding and the power of the Mirage Drive. To \ngive you a chance to get out there and explore the water.\nOur team took a couple of Eclipses out for a day – they were a \nbreeze to load on the car, get to the shore, and step onto. And \nmost importantly, a ton of fun.\nThe water is waiting. You in?\n\nLearn more: \nhttps://www.hobie.com/getoutthere\n\nShare your MirageEclipse story with #GetOutThere.\n\nfacebook.com/HobieCatCompany\ninstagram.com/hobiecatcompany",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/2BZjCyazU6Q/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/2BZjCyazU6Q/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/2BZjCyazU6Q/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/2BZjCyazU6Q/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/2BZjCyazU6Q/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Hobie",
-    "tags": [
-     "Hobie",
-     "Hobie Cat",
-     "Watersports",
-     "pedal",
-     "pedalboard",
-     "standup",
-     "sup",
-     "board",
-     "board sports",
-     "eclipse",
-     "mirage eclipse",
-     "hobie eclipse",
-     "family fun",
-     "on the water",
-     "ocean",
-     "paddlesports",
-     "get out there",
-     "adventure",
-     "explore",
-     "family time",
-     "water toys"
-    ],
-    "categoryId": "17",
-    "liveBroadcastContent": "none",
-    "localized": {
-     "title": "Hobie Mirage Eclipse pedalboard: Get Out There",
-     "description": "Break free from the shore. Trade the well-worn path for a \nwaterway. Step out of your routine and onto a pedalboard at www.hobie.com.\n\nThe Mirage Eclipse is the most recent in Hobie’s history of first-on-\nthe-water equipment. We built the Eclipse to bring together the fun \nof stand up paddleboarding and the power of the Mirage Drive. To \ngive you a chance to get out there and explore the water.\nOur team took a couple of Eclipses out for a day – they were a \nbreeze to load on the car, get to the shore, and step onto. And \nmost importantly, a ton of fun.\nThe water is waiting. You in?\n\nLearn more: \nhttps://www.hobie.com/getoutthere\n\nShare your MirageEclipse story with #GetOutThere.\n\nfacebook.com/HobieCatCompany\ninstagram.com/hobiecatcompany"
-    },
-    "defaultAudioLanguage": "en"
-   }
-  },
-  {
-   "kind": "youtube#video",
-   "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/OjbXOJQcC4xCSqvWdKw6Jr4YT2Q\"",
-   "id": "agWtc0G8oj0",
-   "snippet": {
-    "publishedAt": "2017-07-25T21:25:15.000Z",
-    "channelId": "UCo9hT81uxZpEJiDfN1DXLvQ",
-    "title": "The Hobie Mega Mirage",
-    "description": "The Hobie Mega Mirage... fun for your whole crew #pedalpower \n\n**note: not for sale, just for fun :) \n\n**music: \"Space Odyssey 2001 Theme Trap Remix\" by Holder",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/agWtc0G8oj0/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/agWtc0G8oj0/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/agWtc0G8oj0/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/agWtc0G8oj0/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/agWtc0G8oj0/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Hobie",
-    "tags": [
-     "Hobie",
-     "Hobie Cat",
-     "Watersports",
-     "Mirage Drive",
-     "SUP",
-     "inflatables",
-     "funny",
-     "silly",
-     "whimsicle",
-     "water toy",
-     "pedalpower",
-     "pedal kayak",
-     "kayaks",
-     "pedalboard",
-     "pedal drive",
-     "party boat"
-    ],
-    "categoryId": "17",
-    "liveBroadcastContent": "none",
-    "localized": {
-     "title": "The Hobie Mega Mirage",
-     "description": "The Hobie Mega Mirage... fun for your whole crew #pedalpower \n\n**note: not for sale, just for fun :) \n\n**music: \"Space Odyssey 2001 Theme Trap Remix\" by Holder"
-    },
-    "defaultAudioLanguage": "en"
-   }
-  },
-  {
-   "kind": "youtube#video",
-   "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/wjC4DfM-StqD72kBYv5Pkl9QfMs\"",
-   "id": "rZV5KSPjVOE",
-   "snippet": {
-    "publishedAt": "2018-03-30T21:35:53.000Z",
-    "channelId": "UCo9hT81uxZpEJiDfN1DXLvQ",
-    "title": "Hobie Mirage Fishing Kayaks - Get Hooked!",
-    "description": "Get yours at https://hobie.com",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/rZV5KSPjVOE/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/rZV5KSPjVOE/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/rZV5KSPjVOE/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "maxres": {
-         "url": "https://i.ytimg.com/vi/rZV5KSPjVOE/maxresdefault.jpg",
-         "width": 1280,
-         "height": 720
-     }
-    },
-    "channelTitle": "Hobie",
-    "tags": [
-     "Hobie",
-     "Hobie Cat",
-     "Watersports",
-     "Kayak",
-     "Kayak Fishing",
-     "Kayaking",
-     "Bass Fishing",
-     "Freshwater Fishing",
-     "Saltwater Fishing",
-     "Fishing Boat",
-     "Boats",
-     "Hardcore Fishing",
-     "Kayak Anglers",
-     "Pedal Kayak",
-     "Yak Fishing",
-     "Best Kayak"
-    ],
-    "categoryId": "17",
-    "liveBroadcastContent": "none",
-    "localized": {
-     "title": "Hobie Mirage Fishing Kayaks - Get Hooked!",
-     "description": "Get yours at https://hobie.com"
-    },
-    "defaultAudioLanguage": "en"
-   }
-  },
-  {
-   "kind": "youtube#video",
-   "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/lmITRIVhDm34V0wGo3YasN5ZuN8\"",
-   "id": "luJ65ecJvso",
-   "snippet": {
-    "publishedAt": "2018-04-18T20:30:15.000Z",
-    "channelId": "UCo9hT81uxZpEJiDfN1DXLvQ",
-    "title": "360 Video: La Jolla Caves on the Hobie Mirage Compass",
-    "description": "",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/luJ65ecJvso/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/luJ65ecJvso/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/luJ65ecJvso/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/luJ65ecJvso/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/luJ65ecJvso/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Hobie",
-    "tags": [
-     "Hobie",
-     "Hobie Cat",
-     "Watersports"
-    ],
-    "categoryId": "17",
-    "liveBroadcastContent": "none",
-    "localized": {
-     "title": "360 Video: La Jolla Caves on the Hobie Mirage Compass",
-     "description": ""
-    },
-    "defaultAudioLanguage": "en"
-   }
-  },
-  {
-   "kind": "youtube#video",
-   "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/QA0FSIAXsJiWr3Kpg1cRmPAec0M\"",
-   "id": "Ba4AvjTXlbo",
-   "snippet": {
-    "publishedAt": "2018-04-18T20:33:57.000Z",
-    "channelId": "UCo9hT81uxZpEJiDfN1DXLvQ",
-    "title": "2018 Hobie Mirage Compass All-Purpose Pedal Kayak",
-    "description": "",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/Ba4AvjTXlbo/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/Ba4AvjTXlbo/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/Ba4AvjTXlbo/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/Ba4AvjTXlbo/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/Ba4AvjTXlbo/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Hobie",
-    "tags": [
-     "Hobie",
-     "Hobie Cat",
-     "Watersports"
-    ],
-    "categoryId": "17",
-    "liveBroadcastContent": "none",
-    "localized": {
-     "title": "2018 Hobie Mirage Compass All-Purpose Pedal Kayak",
      "description": ""
     },
     "defaultAudioLanguage": "en"
@@ -1945,57 +1657,6 @@
   },
   {
    "kind": "youtube#video",
-   "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/ryAefJ-LZEYvt1f-RTUlWDUs8AQ\"",
-   "id": "fjgrSKv2MEE",
-   "snippet": {
-    "publishedAt": "2018-04-18T21:12:32.000Z",
-    "channelId": "UCo9hT81uxZpEJiDfN1DXLvQ",
-    "title": "Eclipse on Lake Whatson",
-    "description": "",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/fjgrSKv2MEE/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/fjgrSKv2MEE/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/fjgrSKv2MEE/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/fjgrSKv2MEE/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/fjgrSKv2MEE/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Hobie",
-    "tags": [
-     "Hobie",
-     "Hobie Cat",
-     "Watersports"
-    ],
-    "categoryId": "17",
-    "liveBroadcastContent": "none",
-    "localized": {
-     "title": "Eclipse on Lake Whatson",
-     "description": ""
-    },
-    "defaultAudioLanguage": "en"
-   }
-  },
-  {
-   "kind": "youtube#video",
    "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/zfXrx1F68VYWRKjurV5mefmJr2w\"",
    "id": "KVa-fk9ItJw",
    "snippet": {
@@ -2040,57 +1701,6 @@
     "liveBroadcastContent": "none",
     "localized": {
      "title": "Hobie Days - Lake Whatson",
-     "description": ""
-    },
-    "defaultAudioLanguage": "en"
-   }
-  },
-  {
-   "kind": "youtube#video",
-   "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/948rwyU2dp28zqZAn-LhlkYariU\"",
-   "id": "SKwERI2_ZsY",
-   "snippet": {
-    "publishedAt": "2018-04-18T21:18:24.000Z",
-    "channelId": "UCo9hT81uxZpEJiDfN1DXLvQ",
-    "title": "Animation: The 2018 MirageDrive 180ARC Kayak Pedal-drive",
-    "description": "",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/SKwERI2_ZsY/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/SKwERI2_ZsY/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/SKwERI2_ZsY/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/SKwERI2_ZsY/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/SKwERI2_ZsY/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Hobie",
-    "tags": [
-     "Hobie",
-     "Hobie Cat",
-     "Watersports"
-    ],
-    "categoryId": "17",
-    "liveBroadcastContent": "none",
-    "localized": {
-     "title": "Animation: The 2018 MirageDrive 180ARC Kayak Pedal-drive",
      "description": ""
     },
     "defaultAudioLanguage": "en"
@@ -2285,57 +1895,6 @@
     "liveBroadcastContent": "none",
     "localized": {
      "title": "Miramar Lake California -  Hobie Mirage Inflatable Kayaks",
-     "description": ""
-    },
-    "defaultAudioLanguage": "en"
-   }
-  },
-  {
-   "kind": "youtube#video",
-   "etag": "\"ZG3FIn5B5vcHjQiQ9nDOCWdxwWo/4Y6v3Qi1y2JUMOKGSNYT8PdbA00\"",
-   "id": "ZsChWPF8ROg",
-   "snippet": {
-    "publishedAt": "2018-04-18T21:24:51.000Z",
-    "channelId": "UCo9hT81uxZpEJiDfN1DXLvQ",
-    "title": "Doggy Island - Lake Tahoe",
-    "description": "",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/ZsChWPF8ROg/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/ZsChWPF8ROg/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/ZsChWPF8ROg/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/ZsChWPF8ROg/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/ZsChWPF8ROg/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Hobie",
-    "tags": [
-     "Hobie",
-     "Hobie Cat",
-     "Watersports"
-    ],
-    "categoryId": "17",
-    "liveBroadcastContent": "none",
-    "localized": {
-     "title": "Doggy Island - Lake Tahoe",
      "description": ""
     },
     "defaultAudioLanguage": "en"
