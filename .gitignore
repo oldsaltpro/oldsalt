@@ -1,5 +1,5 @@
-.sass-cache/
-.pug-cache/
+.sass-cache
+.pug-cache
 .vscode
 Gemfile.lock
 dist
