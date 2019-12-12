@@ -18,6 +18,14 @@ sass:
     sass_dir: static/sass
 
 # Base configs
+keep_files:
+  - .git
+  - .gitignore
+
+# DEBUG
+jekyll-pug:
+  debug: true
+
 # baseurl: "http://skeg.me"
 image_fulls_loc: "static/images/fulls"
 image_thumbs_loc: "static/images/thumbs"
