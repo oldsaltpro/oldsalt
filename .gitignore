@@ -1,4 +1,6 @@
 .sass-cache/
+.pug-cache/
+.vscode
 Gemfile.lock
-_site
+dist
 node_modules
