@@ -21,6 +21,10 @@ sass:
 keep_files:
   - .git
   - .gitignore
+  - .htaccess
+  - CNAME
+  - browserconfig.xml
+  - manifest.json
 
 # DEBUG
 jekyll-pug:
