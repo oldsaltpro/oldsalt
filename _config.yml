@@ -19,9 +19,9 @@ sass:
 
 # Base configs
 baseurl: "https://www.oldsalt.pro"
-image_fulls_loc: "static/images/fulls"
-image_thumbs_loc: "static/images/thumbs"
-video_posters_loc: "static/images/posters"
+image_fulls_loc: "/static/images/fulls"
+image_thumbs_loc: "/static/images/thumbs"
+video_posters_loc: "/static/images/posters"
 google_analytics: false
 
 # Preserve existing files in dist
