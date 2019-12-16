@@ -17,8 +17,14 @@ livereload: true
 sass:
     sass_dir: static/sass
 
+# Autoprefixer
+autoprefixer:
+  browsers:
+  - last 2 versions
+
 # Base configs
-baseurl: "https://www.oldsalt.pro/"
+# baseurl: "https://www.oldsalt.pro/"
+liveurl: "https://www.oldsalt.pro/"
 image_fulls_loc: "static/images/fulls"
 image_thumbs_loc: "static/images/thumbs"
 video_posters_loc: "static/images/posters"
